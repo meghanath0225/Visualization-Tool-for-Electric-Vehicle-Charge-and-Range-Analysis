@@ -73,7 +73,7 @@ ORDER BY Average_Range DESC;
 | Metric | Value |
 |----------|---------|
 | Total Global EV Brands | 103 |
-| Total Indian EV Brands | 9 |
+| Total Indian EV Brands | 12 |
 | Dashboard Visualizations | 8 |
 | Tableau Story Points | 5 |
 | Datasets Used | 4 |
