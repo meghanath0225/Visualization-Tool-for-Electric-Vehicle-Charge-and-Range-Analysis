@@ -117,19 +117,19 @@ Users can explore data dynamically through:
 The Tableau Story presents a complete narrative of the EV ecosystem through the following analytical stages:
 
 ### 1️⃣ Charging Stations in India
-Analysis of charging infrastructure distribution across the country.
+This visualization presents the geographical distribution of electric vehicle charging stations across India. It highlights the availability of charging infrastructure in different regions and helps identify areas with higher EV adoption. The analysis supports understanding of accessibility, infrastructure readiness, and future expansion opportunities for sustainable transportation.
 
-### 2️⃣ Regional Charging Analysis
-Comparison of charging station types and regional accessibility.
+### 2️⃣ Charging Stations in Different Regions & Type
+This analysis compares the number of charging stations across various regions and charging types. It reveals regional disparities in charging infrastructure and identifies the prevalence of fast and standard charging technologies. The insights can assist policymakers and investors in planning efficient EV ecosystem development.
 
-### 3️⃣ Electric Vehicle Price Analysis
-Understanding affordability and market segmentation.
+### 3️⃣ Price Range of Different Electric Cars in India
+This visualization explores the price distribution of electric vehicles available in the Indian market. It provides a comparative analysis of affordable, mid-range, and premium EV models, enabling consumers and stakeholders to understand market segmentation and purchasing trends.
 
-### 4️⃣ Brand and Model Comparison
-Evaluating manufacturer diversity and product offerings.
+### 4️⃣ Different Brands & Number of Models
+This chart analyzes the diversity of EV manufacturers and the number of models offered by each brand. It highlights market competition, product availability, and the dominance of specific manufacturers within the Indian electric vehicle sector.
 
-### 5️⃣ Energy Efficiency Analysis
-Identifying high-performing and sustainable EV brands.
+### 5️⃣ Top 10 Most Efficient EV Brands
+Energy efficiency is a critical factor in electric mobility. This visualization ranks the top ten EV brands based on their energy consumption (Wh/km), showcasing vehicles that deliver superior performance while minimizing power usage. These insights support informed decision-making for environmentally conscious consumers. 
 
 ---
 
