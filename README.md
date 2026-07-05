@@ -215,7 +215,7 @@ EV VEHICLES VISUALIZATION
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
+|
 │
 ├── datasets/
 ├── documentation/
@@ -227,7 +227,7 @@ EV VEHICLES VISUALIZATION
 │   ├── create_database.sql
 │   └── sql_queries.sql
 │
-├── tableau/
+|
 │
 └── templates/
     └── index.html
@@ -235,33 +235,6 @@ EV VEHICLES VISUALIZATION
 
 ---
 
-## ▶️ How to Run the Project
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/meghanath0225/Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysis.git
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run Flask Application
-
-```bash
-python app.py
-```
-
-Open:
-
-```text
-http://127.0.0.1:5000
-```
-
----
 
 ## 📄 Documentation
 
