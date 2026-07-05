@@ -72,12 +72,12 @@ ORDER BY Average_Range DESC;
 
 | Metric | Value |
 |----------|---------|
-| Total Global EV Brands | 98 |
-| Total Indian EV Brands | 12 |
+| Total Global EV Brands | 103 |
+| Total Indian EV Brands | 9 |
 | Dashboard Visualizations | 8 |
 | Tableau Story Points | 5 |
 | Datasets Used | 4 |
-| SQL Queries Implemented | 6 |
+| SQL Queries Implemented | 8 |
 
 These KPIs provide an overview of the analytical scope and project coverage.
 
