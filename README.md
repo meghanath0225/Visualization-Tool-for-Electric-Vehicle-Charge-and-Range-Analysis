@@ -177,8 +177,7 @@ This project enables stakeholders to:
 
 🔗 **Dashboard Link**
 
-https://public.tableau.com/views/ElectricCarsAnalyticsDashboard_17831451243460/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
+https://public.tableau.com/views/ElectricCarsAnalyticsDashboard_17831451243460/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ### 📖 Tableau Story
 
 🔗 **Story Link**
