@@ -187,26 +187,6 @@ https://public.tableau.com/views/StoryofElectricCarsinIndia_17832669081640/Story
 
 ---
 
-## 📸 Dashboard Preview
-
-### Charging Stations by Region and Type
-
-![Task 1](screenshots/task1_charging_stations_region_type.png)
-
-### EV Charging Station Map of India
-
-![Task 2](screenshots/task2_ev_map_india.png)
-
-### Top Speed Analysis
-
-![Task 4](screenshots/task4_top_speed_brands.png)
-
-### Top 10 Efficient EV Brands
-
-![Task 6](screenshots/task6_top10_efficient_brands.png)
-
----
-
 ## 📁 Project Structure
 
 ```text
