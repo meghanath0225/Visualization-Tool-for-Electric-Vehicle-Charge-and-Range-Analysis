@@ -192,8 +192,11 @@ https://public.tableau.com/views/StoryofElectricCarsinIndia_17832669081640/Story
 
 # 📌 Results
 
-The project successfully developed a centralized EV analytics platform by integrating MySQL, SQL, Tableau, and Flask. The interactive dashboards and stories enable users to explore charging infrastructure, compare electric vehicle specifications, analyze pricing and performance, and understand market trends through intuitive visualizations. The web application provides a seamless interface for accessing these insights, supporting informed and data-driven decision-making.
-
+- Developed an interactive EV analytics platform.
+- Integrated MySQL, SQL, Tableau, and Flask.
+- Published dashboards and stories on Tableau Public.
+- Embedded visualizations into a Flask web application.
+- Enabled data-driven analysis of EV charging infrastructure, pricing, range, and performance.
 ---
 
 # 🔮 Future Enhancements
